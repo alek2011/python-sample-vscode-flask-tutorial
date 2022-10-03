@@ -14,7 +14,7 @@ variables:
   webAppName: 'testpython4'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'test'
 
   # Environment name
   environmentName: 'testpython4'
